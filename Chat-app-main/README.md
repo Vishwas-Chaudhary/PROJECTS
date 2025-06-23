@@ -65,7 +65,7 @@ JWT_SECRET=your_jwt_secret
 ```bash
 # Clone the repository
 git clone https://github.com/PROJECTS/Chat-app-main.git
-cd chat-app
+cd Chat-app- main
 
 # Install frontend dependencies
 cd frontend
