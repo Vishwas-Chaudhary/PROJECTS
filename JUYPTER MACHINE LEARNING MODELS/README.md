@@ -74,5 +74,5 @@ Let me know if you'd like further changes!
 ## Installation
 Clone the repository:
 ```bash
-   git clone https://github.com/Vishwas-Chaudhary/Machine-Learining.git
-   cd Machine-Learining
+   git clone https://github.com/Vishwas-Chaudhary/PROJECTS/JUYPTER MACHINE LEARNING MODELS.git
+   cd JUYPTER MACHINE LEARNING MODELS
