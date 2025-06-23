@@ -59,7 +59,7 @@ CRYPTXFER/
 # Clone the repository
 git clone https://github.com/Vishwas-Chaudhary/PROJECTS/CRYPTXFER-FILE ENCRYPTION SYSTEM
 .git
-cd CRYPTXFER
+cd CRYPTXFER-FILE ENCRYPTION SYSTEM
 
 # Install dependencies
 pip install -r requirements.txt
