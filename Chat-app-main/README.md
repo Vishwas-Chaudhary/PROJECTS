@@ -65,7 +65,7 @@ We’ve currently used **MongoDB Atlas (NoSQL)** as the backend database, but we
 ```bash
 # Clone the repository
 git clone https://github.com/PROJECTS/Chat-app-main.git
-cd Chat-app- main
+cd Chat-app-main
 
 # Install frontend dependencies
 cd frontend
