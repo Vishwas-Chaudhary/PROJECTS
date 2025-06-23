@@ -55,9 +55,9 @@ We’ve currently used **MongoDB Atlas (NoSQL)** as the backend database, but we
 
 ## Set Up Environment Variables
 
-MONGODB_URI=your_mongodb_uri
-PORT=3001
-JWT_SECRET=your_jwt_secret
+- MONGODB_URI=your_mongodb_uri
+- PORT=3001
+- JWT_SECRET=your_jwt_secret
 
 
 ### Installation
