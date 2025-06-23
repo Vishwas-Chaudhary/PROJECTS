@@ -12,5 +12,5 @@ A simple checkers game where the player plays against an AI opponent. The AI use
 ## Installation
 Clone the repository:
 ```bash
-   git clone https://github.com/Vishwas-Chaudhary/Checkers-AI Game.git
+   git clone https://github.com/Vishwas-Chaudhary/PROJECTS/Checkers-AI Game.git
 
