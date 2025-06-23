@@ -12,7 +12,7 @@ A console-based flight booking system built using **C++** in my **3rd semester**
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Book domestic and international flights  
 - Cancel tickets and get refunds  
@@ -21,7 +21,7 @@ A console-based flight booking system built using **C++** in my **3rd semester**
 
 ---
 
-## 💡 How to Run
+##  How to Run
 
 ```bash
 g++ airline_reservation.cpp -o airline
