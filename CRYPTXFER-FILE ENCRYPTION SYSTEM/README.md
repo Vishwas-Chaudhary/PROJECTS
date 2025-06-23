@@ -33,9 +33,9 @@
 
 | Layer      | Technology                |
 |------------|---------------------------|
-| Backend    | Python, Flask             |
+| Backend    | Python, Flask,HTTP        |
 | Encryption | PyCryptodome (AES)        |
-| Frontend   | HTML, CSS, Vanilla JS     |
+| Frontend   | HTML, CSS, JAVASCRIPT     |
 
 ---
 
