@@ -57,7 +57,8 @@ CRYPTXFER/
 
 ```bash
 # Clone the repository
-git clone https://github.com/Vishwas-Chaudhary/CRYPTXFER.git
+git clone https://github.com/Vishwas-Chaudhary/PROJECTS/CRYPTXFER-FILE ENCRYPTION SYSTEM
+.git
 cd CRYPTXFER
 
 # Install dependencies
