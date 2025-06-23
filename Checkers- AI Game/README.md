@@ -7,10 +7,10 @@ A simple checkers game where the player plays against an AI opponent. The AI use
 
 ## Features
 - Player vs AI gameplay
-- AI powered by the Minimax algorithm with a single difficulty level
+- AI powered by the Minimax algorithm with a single difficulty level difficulty can be easily change by altering the depth of the decesion tree but more depth means slower execution of the program so, I have set the depth to 4 in oreder to make this game feel enjoyable.
 
 ## Installation
 Clone the repository:
 ```bash
-   git clone https://github.com/Vishwas-Chaudhary/Basic-Projects.git
+   git clone https://github.com/Vishwas-Chaudhary/Checkers-AI Game.git
 
